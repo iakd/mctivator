@@ -1,0 +1,9 @@
+Package: de.iakdev.mctivator
+Name: MCtivator
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), cc.tweak.libobjcipc
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Add Media Control functions to Activator
+Maintainer: iakd
+Author: iakd
+Section: Tweaks
