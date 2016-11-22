@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = mctivatorprefs;
+	cell = PSLinkCell;
+	detail = mctivatorprefsListController;
+	icon = mctivatorprefs.png;
+	isController = 1;
+	label = MCtivator;
+    };
+}
